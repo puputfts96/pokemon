@@ -38,7 +38,7 @@ class card extends React.Component {
                     </Link>
                 ):(
                     <Button onClick={this.removePokemon} className='buttondetails'>
-                        Click me
+                        Lepas Pokemon
                     </Button>
                 )}
             </div> 
